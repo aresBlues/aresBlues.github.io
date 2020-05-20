@@ -6,25 +6,25 @@ description: A problem-solver by heart, a Data scientist by profession, a Data A
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Paul röntgen Straße
+city: Aachen
+state: NRW
+zip_code: 52072
+country: Germany
+phone: +491794208030
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+500px_url: https://media-exp1.licdn.com/dms/image/C5103AQEgfNW5dH1uAw/profile-displayphoto-shrink_200_200/0?e=1595462400&v=beta&t=2novXYPK8d3sVXXlcZKA-Mt6Wa0bg0IJo7JuEyTsNWo
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/aresblues/
+linkedin_url: https://www.linkedin.com/in/akshayganesh/
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/andrewbanchich
