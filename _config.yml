@@ -18,7 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url: https://media-exp1.licdn.com/dms/image/C5103AQEgfNW5dH1uAw/profile-displayphoto-shrink_200_200/0?e=1595462400&v=beta&t=2novXYPK8d3sVXXlcZKA-Mt6Wa0bg0IJo7JuEyTsNWo
+500px_url: 
 facebook_url:
 github_url:
 gitlab_url: 
