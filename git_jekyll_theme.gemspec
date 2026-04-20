@@ -1,12 +1,12 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "forty_jekyll_theme"
+  spec.name          = "git_jekyll_theme"
   spec.version       = "1.2"
   spec.authors       = ["Andrew Banchich"]
   spec.email         = ["andrewbanchich@gmail.com"]
 
-  spec.summary       = %q{A Jekyll version of the "Forty" theme by HTML5 UP.}
+  spec.summary       = %q{Gitfolio — a Jekyll portfolio theme based on "Forty" by HTML5 UP.}
   spec.homepage      = "https://gitlab.com/andrewbanchich/forty-jekyll-theme"
   spec.license       = "MIT"
 
