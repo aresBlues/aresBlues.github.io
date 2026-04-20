@@ -6,12 +6,6 @@ description: A problem-solver by heart, a Data scientist by profession, a Data A
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: Paul röntgen Straße
-city: Aachen
-state: NRW
-zip_code: 52072
-country: Germany
-phone: +491794208030
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
